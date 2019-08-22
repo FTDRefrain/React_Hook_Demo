@@ -57,4 +57,10 @@ some function created by hooks
    disable防止重复请求
    ```
 
+10. lifeFunc
+
+   ```
+   生命周期实现
+   ```
+
    
